@@ -4,7 +4,7 @@ Projeto construído no evento Next Level Week da Rocketseat. :suspect: :video_ga
 
 O site é um hub onde os gamers podem compartilhar em suas redes sociais quais games e streamers eles acompanham. 
 
-![preview](.github/preview.jpeg)
+![preview](./.github/preview.jpeg)
 
 [Clique aqui para acessar](https://joaomonteirosn.github.io/nlw-esports-explorer/)
 
